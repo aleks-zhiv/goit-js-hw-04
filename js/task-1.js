@@ -1,4 +1,5 @@
 // Задача 1. Пакування товарів
+
 function isEnoughCapacity(products, containerSize) {
     let productsSize = 0;
     for (const key in products) {
